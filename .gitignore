@@ -1,0 +1,8 @@
+#extension
+*.db
+*.log
+
+
+#directories 
+target/
+bin/
